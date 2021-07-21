@@ -54,3 +54,4 @@ Step One: Copy the entire excel spreadsheet into a new excel document.
 Step Two: Go the row containing the names of all the columns. This is called a Header Row. Click on the title called Borough (Column A) in the Header Row and hold down the left mouse button and move to the last column called Sale Date (Column Q). Continue holding down the left mouse button and scroll down to the last row in the spreadsheet. The document will be highlighted. Release the mouse.
 Step Three: Copy selection into Select the Data menu from the toolbar, and then; Select the Sort option, and from there; Select Header Row. Use the drop down boxes to help you sort the categories.
 07/16/07
+
